@@ -14,9 +14,9 @@
 ```yaml
 name: Mr King
 located_in: London, England
-description: Passionate developer with a focus on HTML, CSS, JavaScript, and Lua, building immersive experiences for FiveM and
-beyond. Experienced in UI design, game scripting, and 3D modeling for game environments. Driven by creativity, community, and
-clean, functional code.
+description: Passionate developer with a focus on HTML, CSS, JavaScript, and Lua, building immersive experiences for FiveM
+and beyond. Experienced in UI design, game scripting, and 3D modeling for game environments. Driven by creativity,
+community, and clean, functional code.
 education:
   [
     "Self-Taught Developer",
