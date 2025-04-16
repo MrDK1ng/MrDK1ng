@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://r2.fivemanage.com/3cJHxGwOn37WPBQu1FHy0/welcome.gif"/>
 </p>
