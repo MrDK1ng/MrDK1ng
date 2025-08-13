@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
 </span>
-
+<h1 align="center"> Statistics </h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDK1ng)](https://github.com/MrDK1ng/github-readme-stats)
 <h1 align="center"> About Me </h1>
 
 ```yaml
