@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
 </span>
 <h1 align="center"> Statistics </h1>
-![Top Langs](https://readme-stats-nine-roan.vercel.app/api/top-langs/?username=MrDK1ng&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://readme-stats-nine-roan.vercel.app/api/top-langs/?username=MrKing&count_private=true&show_icons=true&theme=radical)
 <h1 align="center"> About Me </h1>
 
 ```yaml
