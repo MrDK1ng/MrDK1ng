@@ -15,7 +15,7 @@
 <h1 align="center">📊 Statistics</h1>
 <p align="center">
   <img src="https://github-readme-stats-livid-two-67.vercel.app/api?username=MrDK1ng&count_private=true&show_icons=true&theme=radical" alt="MrDK1ng's GitHub stats" />
-  <img src="https://github-readme-stats-livid-two-67.vercel.app/api/top-langs/?username=MrDK1ng&count_private=true&show_icons=true&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-livid-two-67.vercel.app/api/top-langs/?username=MrDK1ng&count_private=true&show_icons=true&theme=radical&layout=donut-vertical" alt="Top Languages" />
 </p>
 
 ---
