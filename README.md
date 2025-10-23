@@ -20,38 +20,6 @@
   <img src="https://github-readme-stats-livid-two-67.vercel.app/api/top-langs/?username=MrDK1ng&count_private=true&show_icons=true&theme=radical&layout=donut-vertical" alt="Top Languages" />
 </p>
 
----
-
-<h1 align="center">🙋‍♂️ About Me</h1>
-
-```yaml
-name: "Mr King"
-located_in: "London, England"
-description: >
-  Passionate developer with a focus on React, Typescript, Python and Lua — 
-  building immersive experiences for FiveM and beyond. 
-  Experienced in UI design, game scripting, and 3D modeling for game environments. 
-  Driven by creativity, community, and clean, functional code.
-education:
-  - "Self-Taught Developer"
-  - "A Levels in Games Art and Design"
-
-fields_of_interests:
-  - "Web Development"
-  - "Front-End Development"
-  - "Game Development"
-  - "DevOps"
-
-2025 Goals:
-  - "Publicly Launch Personal Project"
-  - "Learn New Programming Languages"
-
-hobbies:
-  - "🎮 Gaming"
-  - "🎬 Cinema"
-  - "🍻 Drinking"
-```
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
